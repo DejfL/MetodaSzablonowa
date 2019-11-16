@@ -17,6 +17,7 @@ namespace MetodaSzablonowa_KawaHerbata.Abstract
         public void GotowanieWody()
         {
             Console.WriteLine("Gotoje wode");
+            //sd
         }
         
         public void NalewanieDoFilizanki()
