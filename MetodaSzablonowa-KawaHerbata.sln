@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetodaSzablonowa-KawaHerbata", "MetodaSzablonowa-KawaHerbata\MetodaSzablonowa-KawaHerbata.csproj", "{3A0425F0-6C9D-4887-B607-2B35578F2417}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0425F0-6C9D-4887-B607-2B35578F2417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0425F0-6C9D-4887-B607-2B35578F2417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0425F0-6C9D-4887-B607-2B35578F2417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0425F0-6C9D-4887-B607-2B35578F2417}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507A0BA7-02D9-48A5-832A-523A6D7493C1}
+	EndGlobalSection
+EndGlobal
